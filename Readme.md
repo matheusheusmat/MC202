@@ -1,16 +1,16 @@
 # (PT-BR) MC202 - Estruturas de Dados
 <p>
 Exercícios relacionados à matéria MC202 da Universidade Estadual de Campinas, do curso de engenharia de computação, realizados no segundo semestre de 2022. Desenvolvidos em C. Assuntos de cada 'lab':<br>
-• lab01 - Vetores e inteiros -  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> <br>
-• lab02 - Matrizes - [Enunciado e testes]()<br> 
-• lab03 - Tipo Abstrato de Dados (TAD) - [Enunciado e testes]()<br>
-• lab04 - Ponteiros - [Enunciado e testes]()<br>
-• lab05 - Vetores dinâmicos - [Enunciado e testes]()<br>
-• lab06 - Variação de lista - [Enunciado e testes]()<br>
-• lab07 - Pilha e fila - [Enunciado e testes]()<br>
-• lab08 - Árvore Binária de Busca (ABB) - [Enunciado e testes]()<br>
-• lab09 - Heap e fila de prioridade - [Enunciado e testes]()<br>
-• lab11 - Grafos - [Enunciado e testes]()<br>
+• lab01 - Vetores e inteiros -  <a href="https://drive.google.com/drive/folders/1t1NmUvlOlZZDwyyb4L2Rv13ryLAVh0bl?usp=sharing">Enunciado e testes</a> <br>
+• lab02 - Matrizes - <a href="">Enunciado e testes</a><br> 
+• lab03 - Tipo Abstrato de Dados (TAD) - <a href="">Enunciado e testes</a><br>
+• lab04 - Ponteiros - <a href="">Enunciado e testes</a><br>
+• lab05 - Vetores dinâmicos - <a href="">Enunciado e testes</a><br>
+• lab06 - Variação de lista - <a href="">Enunciado e testes</a><br>
+• lab07 - Pilha e fila - <a href="">Enunciado e testes</a><br>
+• lab08 - Árvore Binária de Busca (ABB) - <a href="">Enunciado e testes</a><br>
+• lab09 - Heap e fila de prioridade - <a href="">Enunciado e testes</a><br>
+• lab11 - Grafos - <a href="">Enunciado e testes</a><br>
 </p>
 
 # (ENG) MC102 - Data structures
